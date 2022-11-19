@@ -1,0 +1,40 @@
+
+body{
+    background: linear-gradient(135deg, #cfd4d6, #9b59b6);
+}
+.predict{
+    background: linear-gradient(135deg, #cfd4d6, #9b59b6);
+    padding-right:0%;
+}
+input[type="submit"]
+{
+    width: 20%;
+    height: 50px;
+    border: 1px solid;
+    border-radius: 50px;
+    font-size: 18px;
+    color: #e9f4fb;
+    padding-right: 0px;
+    font-weight: 700;
+    cursor: pointer;
+    background: linear-gradient(135deg, #cfd4d6, #9b59b6);
+    margin-left: 5px;
+    align-content: center;
+    }
+
+  .predict h1{
+        text-align: center;
+    }
+ .submit a{
+    border: 2px solid blueviolet;
+    border-radius: 20px;
+    font-size:26px;
+    text-decoration: none;
+    padding: 3px;
+margin-left: 250px; 
+ }
+ .submit a:hover{
+    background-color: blueviolet;
+    color:white;
+    transition: 0.5s;
+ }
